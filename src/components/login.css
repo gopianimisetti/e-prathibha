@@ -1,0 +1,12 @@
+.e1{
+   
+    margin-top: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 70px;
+    background-color: rgb(123, 164, 133);
+}
+.n1 input{
+    border-radius: 10px;
+    padding: 5px;
+}
