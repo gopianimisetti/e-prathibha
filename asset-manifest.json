@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/e-prathibha/static/css/main.ebb41313.css",
-    "main.js": "/e-prathibha/static/js/main.7409dc4f.js",
+    "main.js": "/e-prathibha/static/js/main.62a0ae0d.js",
     "static/js/787.d3befce1.chunk.js": "/e-prathibha/static/js/787.d3befce1.chunk.js",
     "index.html": "/e-prathibha/index.html",
     "main.ebb41313.css.map": "/e-prathibha/static/css/main.ebb41313.css.map",
-    "main.7409dc4f.js.map": "/e-prathibha/static/js/main.7409dc4f.js.map",
+    "main.62a0ae0d.js.map": "/e-prathibha/static/js/main.62a0ae0d.js.map",
     "787.d3befce1.chunk.js.map": "/e-prathibha/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb41313.css",
-    "static/js/main.7409dc4f.js"
+    "static/js/main.62a0ae0d.js"
   ]
 }
