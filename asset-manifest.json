@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-prathibha%20/static/css/main.ebb41313.css",
-    "main.js": "/e-prathibha%20/static/js/main.a2f50466.js",
-    "static/js/787.d3befce1.chunk.js": "/e-prathibha%20/static/js/787.d3befce1.chunk.js",
-    "index.html": "/e-prathibha%20/index.html",
-    "main.ebb41313.css.map": "/e-prathibha%20/static/css/main.ebb41313.css.map",
-    "main.a2f50466.js.map": "/e-prathibha%20/static/js/main.a2f50466.js.map",
-    "787.d3befce1.chunk.js.map": "/e-prathibha%20/static/js/787.d3befce1.chunk.js.map"
+    "main.css": "/e-prathibha/static/css/main.ebb41313.css",
+    "main.js": "/e-prathibha/static/js/main.f8455b45.js",
+    "static/js/787.d3befce1.chunk.js": "/e-prathibha/static/js/787.d3befce1.chunk.js",
+    "index.html": "/e-prathibha/index.html",
+    "main.ebb41313.css.map": "/e-prathibha/static/css/main.ebb41313.css.map",
+    "main.f8455b45.js.map": "/e-prathibha/static/js/main.f8455b45.js.map",
+    "787.d3befce1.chunk.js.map": "/e-prathibha/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebb41313.css",
-    "static/js/main.a2f50466.js"
+    "static/js/main.f8455b45.js"
   ]
 }
