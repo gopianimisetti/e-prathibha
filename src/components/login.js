@@ -55,7 +55,7 @@ function Login() {
 
     } else {
 
-      alert("Login failure")
+      alert("Login credentials are invalid ")
 
     }
   }

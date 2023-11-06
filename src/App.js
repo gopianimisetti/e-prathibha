@@ -14,7 +14,7 @@ function App() {
   return (
     <div>
       
-      <BrowserRouter>
+      <BrowserRouter basename="/e-prathibha">
 
         <Navbarr/>
          <Routes>
